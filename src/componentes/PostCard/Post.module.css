@@ -1,7 +1,7 @@
 .post {
     text-align: center;
     width: 282px;
-    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.08);
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.08);
     border-radius: 0px 0px 10px 10px;
     padding-bottom: 1.5rem;
     transition: transform .2s;
