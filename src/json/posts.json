@@ -2,27 +2,27 @@
     {
         "id": 1,
         "titulo": "Portfólio",
-        "texto": "> Fonte: <https://vercel.com/kaloops-projects/portfolio> \n\n Meu primeiro projeto desenvolvido durante meus estudos no Programa ONE da Oracle + Alura. É bem simplesinho, constru[ido apenas em HTML e CSS, mas tenho o maior orgulho dele, foi o primeiro trabalho que fiz sozinha. \n\n "
+        "texto": "> Fonte: <https://portfolio-psi-seven-63.vercel.app/> \n\n Meu primeiro projeto desenvolvido durante meus estudos no Programa ONE da Oracle + Alura. É bem simplesinho, constru[ido apenas em HTML e CSS, mas tenho o maior orgulho dele, foi o primeiro trabalho que fiz sozinha. \n\n "
     },
     {
         "id": 2,
         "titulo": "Encriptadora",
-        "texto": "> Fonte: <https://vercel.com/kaloops-projects/encriptadora> \n\n Encriptador/desencriptador de texto. Meu Primeiro Challenge do Programa ONE da Oracle + Alura. Foi construído utilizando as tecnologias JavaScript, HTML e CSS. \n\n "
+        "texto": "> Fonte: <https://encriptadora.vercel.app/> \n\n Encriptador/desencriptador de texto. Meu Primeiro Challenge do Programa ONE da Oracle + Alura. Foi construído utilizando as tecnologias JavaScript, HTML e CSS. \n\n "
     },
     {
         "id": 3,
         "titulo": "Fokus",
-        "texto": "> Fonte: <https://vercel.com/kaloops-projects/fokus> \n\n  Projeto tipo cronômetro baseado na técnica pomodoro, com as opções Foco, Descanso longo e Descanso curto. Também é possível ouvir uma música durante a execução do app através de um seletor. Desenvolvido durante meus estudos no Programa ONE da Oracle + Alura. \n\n "
+        "texto": "> Fonte: <https://fokus-phi-five.vercel.app/> \n\n  Projeto tipo cronômetro baseado na técnica pomodoro, com as opções Foco, Descanso longo e Descanso curto. Também é possível ouvir uma música durante a execução do app através de um seletor. Desenvolvido durante meus estudos no Programa ONE da Oracle + Alura. \n\n "
     },
     {
         "id": 4,
         "titulo": "Monibank",
-        "texto": "> Fonte: <https://vercel.com/kaloops-projects/monibank> \n\n  Este é um simulador de cadastro para a criação de uma conta bancária com buscador de endereço via CEP funcional e é possível capturar uma imagem facial utilizando a câmera do dispositivo. Foi construído utilizando as tecnologias JavaScript, HTML e CSS. Desenvolvido durante meus estudos no Programa ONE da Oracle + Alura. \n\n "
+        "texto": "> Fonte: <https://monibank-ashen.vercel.app/> \n\n  Este é um simulador de cadastro para a criação de uma conta bancária com buscador de endereço via CEP funcional e é possível capturar uma imagem facial utilizando a câmera do dispositivo. Foi construído utilizando as tecnologias JavaScript, HTML e CSS. Desenvolvido durante meus estudos no Programa ONE da Oracle + Alura. \n\n "
     },
     {
         "id": 5,
         "titulo": "Space App",
-        "texto": "> Fonte: <https://vercel.com/kaloops-projects/space-app> \n\n  Aplicação de fotos do espaço. Desenvolvido durante meus estudos no Programa ONE da Oracle + Alura.  \n\n"
+        "texto": "> Fonte: <https://space-app-sooty-nine.vercel.app/> \n\n  Aplicação de fotos do espaço. Desenvolvido durante meus estudos no Programa ONE da Oracle + Alura.  \n\n"
     },
     {
         "id": 6,
